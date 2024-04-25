@@ -10,7 +10,7 @@
 	* Por cada objeto creado en los método main; debe presentar los datos que considere necesarios.
 	* Los atributos deberán ser privados en cada clase.
 	* Los datos para crear los objetos **NO** se necesita ingresar por teclado.
-	* Recuerde, según el problema, puede existir método establecer que no requieren argumentos.
+	* Recuerde, según el problema, puede existir **uno o varios** métodos establecer que no requieren argumentos.
 
 
 ### Problema 1. 
